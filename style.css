@@ -1,0 +1,10 @@
+label{
+    display:inline;
+}
+
+.cell{
+    width: 65%;
+}
+.sort-btn:hover{
+    cursor: pointer;
+}
